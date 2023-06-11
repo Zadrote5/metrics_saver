@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+
+  redis:
+    restart: always
+    image: redis:alpine
+    ports:
+      - "6379:6379"
+
+  celery:
+    build:
+      context: .
+    command:  celery -A app.celery worker --loglevel=info
+    volumes:
+      - .:/code
+    depends_on:
+      - redis
+    environment:
+      CELERY_BROKER_URL: redis://redis:6379/0
+
+  celery_beat:
+    restart: always
+    build:
+      context: .
+    command: celery -A app.celery beat -l info
+    volumes:
+      - .:/code
+    depends_on:
+      - redis

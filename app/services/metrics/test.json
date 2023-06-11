@@ -1,0 +1,1088 @@
+{
+  "status": "success",
+  "data": {
+    "resultType": "vector",
+    "result": [
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myoffice-t06.i",
+          "instance": "tarm-myoffice-t06.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myoffice",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "1.7470116905279398"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-store-a01.i",
+          "instance": "tarm-store-a01.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-storage",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "4.206369334385847"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myteam-a02.i",
+          "instance": "tarm-myteam-a02.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "2.623197947906692"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-backend-b02",
+          "instance": "tarm-backend-b02.i:6188",
+          "rack": "BE.3_9_.18",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.7871699286797404"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-backend-b07.i",
+          "instance": "tarm-backend-b07.i:6188",
+          "rack": "BE.3_9_.18",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.08698303382597945"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myteam-a04.i",
+          "instance": "tarm-myteam-a04.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "3.4504135499323705"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-store-b03.i",
+          "instance": "tarm-store-b03.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-storage",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "3.7245555068678575"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myoffice-t01.i",
+          "instance": "tarm-myoffice-t01.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myoffice",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "1.325677478121992"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-backend-a08.i",
+          "instance": "tarm-backend-a08.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.06582683370651433"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-backend-a04",
+          "instance": "tarm-backend-a04.i:6188",
+          "rack": "BO.H3G.070",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "2.388114746814008"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-db-b02.i",
+          "instance": "tarm-db-b02.i:6188",
+          "rack": "BE.3_9_.17",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.10085893354340326"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myoffice-t08.i",
+          "instance": "tarm-myoffice-t08.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myoffice",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.2941131180608508"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-store-c03.i",
+          "instance": "tarm-store-c03.i:6188",
+          "rack": "BE.3_9_.19",
+          "server_group": "tarm-storage",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.42559971674346375"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-front-b01.i",
+          "instance": "tarm-front-b01.i:6188",
+          "rack": "BE.3_9_.17",
+          "server_group": "tarm-myteam-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "2.778139076838408"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myoffice-t10.i",
+          "instance": "tarm-myoffice-t10.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myoffice",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "2.342993312321369"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-backend-b06.i",
+          "instance": "tarm-backend-b06.i:6188",
+          "rack": "BE.3_9_.18",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.06988256933026138"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-backend-a05.i",
+          "instance": "tarm-backend-a05.i:6188",
+          "rack": "BO.H3G.070",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.05518639486346013"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-store-b01.i",
+          "instance": "tarm-store-b01.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-storage",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "3.3028947784581284"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-store-a03.i",
+          "instance": "tarm-store-a03.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-storage",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "3.342784630606035"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-backup-a01.i",
+          "instance": "tarm-backup-a01.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-backup",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "3.4784490490997575"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-backend-a02",
+          "instance": "tarm-backend-a02.i:6188",
+          "rack": "BO.H3G.070",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "1.7089457802008194"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-myteam-b03.i",
+          "instance": "tarm-myteam-b03.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.17542557769456227"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-backend-b03",
+          "instance": "tarm-backend-b03.i:6188",
+          "rack": "BE.3_9_.18",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "1.06253499939132"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-backend-a07.i",
+          "instance": "tarm-backend-a07.i:6188",
+          "rack": "BO.H3G.070",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.08837978848818029"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-misc-t01.i",
+          "instance": "tarm-misc-t01.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-myteam-virt",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "7.241155046825885"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-mail-a02.i",
+          "instance": "tarm-mail-a02.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-mail-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "8.248725865651705"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myoffice-t05.i",
+          "instance": "tarm-myoffice-t05.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myoffice",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "1.7143704582553765"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-audit-b01.i",
+          "instance": "tarm-audit-b01.i:6188",
+          "rack": "BE.3_9_.18",
+          "server_group": "tarm-backup",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.3025475379648304"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-mail-b05.i",
+          "instance": "tarm-mail-b05.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-mail",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "10.541059111131931"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myteam-a03.i",
+          "instance": "tarm-myteam-a03.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.7868203041920071"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-raft-t03.i",
+          "instance": "tarm-raft-t03.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-myteam-virt",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "1.498191542247124"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-raft-t01.i",
+          "instance": "tarm-raft-t01.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-myteam-virt",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "3.083909339335304"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-mail-b04.i",
+          "instance": "tarm-mail-b04.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-mail-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "7.085050543333672"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-front-a01.i",
+          "instance": "tarm-front-a01.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myteam-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "2.475061935124723"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-backup-b01.i",
+          "instance": "tarm-backup-b01.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-backup",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.07430364772343212"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-backend-b05.i",
+          "instance": "tarm-backend-b05.i:6188",
+          "rack": "BE.3_9_.18",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.07507368343005484"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-mail-b03.i",
+          "instance": "tarm-mail-b03.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-mail-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "7.462104700984118"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-mail-b02.i",
+          "instance": "tarm-mail-b02.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-mail-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "7.50505804051051"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-backend-b08.i",
+          "instance": "tarm-backend-b08.i:6188",
+          "rack": "BE.3_9_.17",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.057463418660352754"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-mail-a01.i",
+          "instance": "tarm-mail-a01.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-mail-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "14.577474706554819"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-mail-a03.i",
+          "instance": "tarm-mail-a03.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-mail-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "9.234355494337452"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-store-a02.i",
+          "instance": "tarm-store-a02.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-storage",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "3.5888440165352504"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-backend-b01",
+          "instance": "tarm-backend-b01.i:6188",
+          "rack": "BE.3_9_.18",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "1.4892664938004803"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-backend-a03",
+          "instance": "tarm-backend-a03.i:6188",
+          "rack": "BO.H3G.070",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "2.100652508830595"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-raft-t02.i",
+          "instance": "tarm-raft-t02.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-myteam-virt",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "1.3928627058754588"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-mail-a04.i",
+          "instance": "tarm-mail-a04.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-mail-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "8.794609794082314"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-store-b02.i",
+          "instance": "tarm-store-b02.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-storage",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "2.1672180117095245"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myoffice-t07.i",
+          "instance": "tarm-myoffice-t07.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myoffice",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "1.1652091704087726"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myteam-a01.i",
+          "instance": "tarm-myteam-a01.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.18484795799721876"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-arbiter-t01.i",
+          "instance": "tarm-arbiter-t01.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-myteam-virt",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.8669656203841584"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myoffice-t04.i",
+          "instance": "tarm-myoffice-t04.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myoffice",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "3.7882256548579214"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-front-a02.i",
+          "instance": "tarm-front-a02.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myteam-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "2.1163667664693526"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-db-a01.i",
+          "instance": "tarm-db-a01.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.8095923420527575"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-db-a02.i",
+          "instance": "tarm-db-a02.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.06757167665617675"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-store-c02.i",
+          "instance": "tarm-store-c02.i:6188",
+          "rack": "BE.3_9_.19",
+          "server_group": "tarm-storage",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.23922380221366862"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-backend-a01",
+          "instance": "tarm-backend-a01.i:6188",
+          "rack": "BO.H3G.070",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "3.874212515748436"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-backend-a06.i",
+          "instance": "tarm-backend-a06.i:6188",
+          "rack": "BO.H3G.070",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.06147746662667762"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-myteam-b04.i",
+          "instance": "tarm-myteam-b04.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.1326054183850312"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-myteam-b02.i",
+          "instance": "tarm-myteam-b02.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "1.1821559906515688"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-avir-t01.i",
+          "instance": "tarm-avir-t01.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-avir",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.32646048108917813"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-mail-b01.i",
+          "instance": "tarm-mail-b01.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-mail-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "9.336011291500713"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myoffice-t09.i",
+          "instance": "tarm-myoffice-t09.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myoffice",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "4.755501222498661"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-db-backrepl-a05.i",
+          "instance": "tarm-db-backrepl-a05.i:6188",
+          "rack": "BO.H3G.080",
+          "server_group": "tarm-mail",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.3556039792587974"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-backend-b04",
+          "instance": "tarm-backend-b04.i:6188",
+          "rack": "BE.3_9_.18",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.8500245218248661"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-db-b01.i",
+          "instance": "tarm-db-b01.i:6188",
+          "rack": "BE.3_9_.17",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.6412779011953106"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-myteam-b01.i",
+          "instance": "tarm-myteam-b01.i:6188",
+          "rack": "BE.3_9_.20",
+          "server_group": "tarm-myteam",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.18566541267848338"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-avir-t02.i",
+          "instance": "tarm-avir-t02.i:6188",
+          "rack": "BO.H3G.090",
+          "server_group": "tarm-avir",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.4925077658481701"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myoffice-t02.i",
+          "instance": "tarm-myoffice-t02.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myoffice-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.8608232204726101"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-store-c01.i",
+          "instance": "tarm-store-c01.i:6188",
+          "rack": "BE.3_9_.19",
+          "server_group": "tarm-storage",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "0.23177894279722017"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BE",
+          "env": "prod",
+          "host": "tarm-front-b02.i",
+          "instance": "tarm-front-b02.i:6188",
+          "rack": "BE.3_9_.17",
+          "server_group": "tarm-myteam-front",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "2.5647092020021476"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-myoffice-t03.i",
+          "instance": "tarm-myoffice-t03.i:6188",
+          "rack": "BO.H3G.060",
+          "server_group": "tarm-myoffice",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "1.8115299334853519"
+        ]
+      },
+      {
+        "metric": {
+          "data_center": "BO",
+          "env": "prod",
+          "host": "tarm-mail-a05.i",
+          "instance": "tarm-mail-a05.i:6188",
+          "rack": "BO.H3G.080",
+          "server_group": "tarm-mail",
+          "team": "tarm"
+        },
+        "value": [
+          1686477232.019,
+          "7.669944882747662"
+        ]
+      }
+    ]
+  }
+}
